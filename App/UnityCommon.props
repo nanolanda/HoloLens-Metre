@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>PositionMark</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Vive\Desktop\SanDiego\Unityprojects\PositionMark\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Vive\Desktop\SanDiego\Unityprojects\PositionMark\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

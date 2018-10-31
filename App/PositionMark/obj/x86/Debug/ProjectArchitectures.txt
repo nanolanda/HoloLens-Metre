@@ -1,0 +1,2 @@
+C:\Users\Vive\Desktop\SanDiego\Unityprojects\PositionMark\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Vive\Desktop\SanDiego\Unityprojects\PositionMark\App\PositionMark\PositionMark.csproj;x86
